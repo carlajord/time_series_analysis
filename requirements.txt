@@ -1,0 +1,20 @@
+
+# Data Management
+cognite-sdk
+duckdb
+
+# General
+python-dotenv
+pandas
+ipykernel
+ipython
+nbformat
+plotly
+matplotlib
+
+# MOIRAI
+uni2ts
+
+python-certifi-win32
+sentence-transformers --use-feature=truststore
+ipywidgets

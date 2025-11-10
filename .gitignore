@@ -1,1 +1,9 @@
+
+.git/
+.python_version
 .env
+timesfm/
+chronos/
+*.duckdb
+*/.vscode/*
+*/__pycache__/*

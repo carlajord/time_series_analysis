@@ -1,0 +1,22 @@
+{
+    "compressor": {
+        "on": {"tag":"VAL_23-KA-9101-M01:HSI.StatusMotorOn", "pi_number": "pi:160229"},
+        "motor_power": {"tag":"VAL_23-KA-9101-M01_Active_power_kW:VALUE", "pi_number": "pi:160231"},
+        "disch_T_1": {"tag":"VAL_23-TT-92539:X.Value", "pi_number": "pi:160886"},
+        "disch_T_2": {"tag":"VAL_23_TT_92536:Z.X.Value", "pi_number": "pi:160111"},
+        "disch_P_1": {"tag":"VAL_23-PT-92539:X.Value", "pi_number": "pi:160703"},
+        "disch_P_2": {"tag":"VAL_23_PT_92537:Z.X.Value", "pi_number": "pi:160105"},
+        "suc_T_1": {"tag":"VAL_23-TT-92533:X.Value", "pi_number": "pi:160884"},
+        "suc_T_2": {"tag":"VAL_23_TT_92532:Z.X.Value", "pi_number": "pi:160110"},
+        "suc_P_1": {"tag":"VAL_23-PT-92532:X.Value", "pi_number": "pi:160700"},
+        "suc_P_2": {"tag":"VAL_23-PT-92532:X.Value", "pi_number": "pi:160701"},
+        "mass_flow": {"tag":"VAL_23-FT-92537-01:X.Value", "pi_number": "pi:160184"},
+        "vol_flow": {"tag":"VAL_23-FT-92537-04:X.Value", "pi_number": "pi:195975"},
+        "flow_1": {"tag":"VAL_23_FT_92537_02:Z.X.Value", "pi_number": "pi:160060"},
+        "flow_2": {"tag":"VAL_23_FT_92537_03:Z.X.Value", "pi_number": "pi:160061"},
+        "vib_1_1": {"tag":"VAL_23_YT_96133_01:Z.X.Value", "pi_number": "pi:160128"},
+        "vib_1_2": {"tag":"VAL_23_YT_96133_02:Z.X.Value", "pi_number": "pi:160129"},
+        "vib_2_1": {"tag":"VAL_23_YT_96134_01:Z.X.Value", "pi_number": "pi:160130"},
+        "vib_2_2": {"tag":"VAL_23_YT_96134_02:Z.X.Value", "pi_number": "pi:160131"}
+    }
+}

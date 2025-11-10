@@ -1,0 +1,17 @@
+
+# Data Management
+cognite-sdk
+duckdb
+
+# General
+python-dotenv
+pandas
+ipykernel
+ipython
+nbformat
+plotly
+matplotlib
+
+# MOIRAI
+uni2ts
+
